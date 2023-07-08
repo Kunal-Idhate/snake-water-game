@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #faf9f6;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)),
+    url("https://wallpaperaccess.com/full/8552481.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.app-rules {
+  text-align: center;
+  background-color: #faf9f6;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.45)),
+    url("https://wallpaperaccess.com/full/8552481.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.col {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+.head {
+  height: 100px;
+}

@@ -1,0 +1,12 @@
+.nav-link{
+    list-style: none;
+    display: block;
+    margin-left: 100px;
+    font-size:20px;
+    font-family: 'Playfair Display SC', serif;
+  
+}
+.nav-link:hover{
+    text-decoration: underline rgb(0, 0, 0);
+  
+  }
